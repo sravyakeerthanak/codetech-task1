@@ -1,1 +1,14 @@
-In this task, I worked on integrating a public API with Python to understand how real-time data can be fetched and used in applications. I used the OpenWeatherMap API to collect weather forecast data for a selected location. The data was retrieved using the requests library and then processed to extract useful information such as temperature values and timestamps. After processing the data, I used the matplotlib library to visualize the temperature changes over time in the form of a line graph. This task helped me understand API handling, JSON data processing, and basic data visualization in Python, as well as how Python can be used to turn raw data into meaningful visual insights.
+
+API INTEGRATION AND DATA VISUALIZATION
+
+*Company*: CODTECH IT SOLUTIONS
+
+*NAME*: Sravya Keerthana.Kondamudi
+
+*Intern ID*: CTIS2555
+
+*Domain*: Python Programming
+
+*Duration*:  8 Weeks
+
+*Mentor*: Neela Santhosh
