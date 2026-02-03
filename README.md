@@ -47,4 +47,6 @@ This task helped in gaining practical experience with external APIs, working wit
 
 ## output
 
+<img width="1536" height="754" alt="Image" src="https://github.com/user-attachments/assets/e8681868-7a42-45d8-9333-fbfc8023f584" />
+
 
